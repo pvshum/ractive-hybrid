@@ -1,0 +1,10 @@
+{
+  "name": "ractive-hybrid",
+  "description": "Render mustache on the server and ractive on the client.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.8.5",
+    "hogan-express": "^0.5.2"
+  }
+}

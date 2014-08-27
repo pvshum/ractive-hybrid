@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'>
+		<title>Ractive test</title>
+	</head>
+	<body>
+		<h1>Ractive test</h1>
+		<div id='container'>
+			<!-- Server rendered content here. -->
+			{{> helloWorld}}
+		</div>
+	</body>
+</html>

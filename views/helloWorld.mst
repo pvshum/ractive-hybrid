@@ -1,0 +1,3 @@
+<p>Hello, {{world}}!!!</p>
+{{> rando }}
+<p>Any rando?</p>
