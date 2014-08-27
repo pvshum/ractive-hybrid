@@ -2,10 +2,10 @@
 <html lang='en'>
 	<head>
 		<meta charset='utf-8'>
-		<title>Ractive test</title>
+		<title>Reactive test</title>
 	</head>
 	<body>
-		<h1>Ractive test</h1>
+		<h1>Reactive test</h1>
 		<div id='container'>
 			<!-- Server rendered content here. -->
 			{{> helloWorld}}
